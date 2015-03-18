@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Michael Bearne</string>
+	<key>description</key>
+	<string>Support for cjsx &lt;a href="https://github.com/jsdf/coffee-react-transform/"&gt;Coffeescript React JSX Transformer&lt;/a&gt;.</string>
+	<key>name</key>
+  <string>Coffeescript React</string>
+	<key>uuid</key>
+	<string>7E4090A0-77A2-43D1-A640-572C3DC4727C</string>
+</dict>
+</plist>
